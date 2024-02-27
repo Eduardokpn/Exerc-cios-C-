@@ -1,0 +1,14 @@
+C:\Users\eduar\Documents\ETEC\DS\aula02Eduardo\bin\Debug\net8.0\aula02Eduardo.exe
+C:\Users\eduar\Documents\ETEC\DS\aula02Eduardo\bin\Debug\net8.0\aula02Eduardo.deps.json
+C:\Users\eduar\Documents\ETEC\DS\aula02Eduardo\bin\Debug\net8.0\aula02Eduardo.runtimeconfig.json
+C:\Users\eduar\Documents\ETEC\DS\aula02Eduardo\bin\Debug\net8.0\aula02Eduardo.dll
+C:\Users\eduar\Documents\ETEC\DS\aula02Eduardo\bin\Debug\net8.0\aula02Eduardo.pdb
+C:\Users\eduar\Documents\ETEC\DS\aula02Eduardo\obj\Debug\net8.0\aula02Eduardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\ETEC\DS\aula02Eduardo\obj\Debug\net8.0\aula02Eduardo.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\ETEC\DS\aula02Eduardo\obj\Debug\net8.0\aula02Eduardo.AssemblyInfo.cs
+C:\Users\eduar\Documents\ETEC\DS\aula02Eduardo\obj\Debug\net8.0\aula02Eduardo.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\ETEC\DS\aula02Eduardo\obj\Debug\net8.0\aula02Eduardo.dll
+C:\Users\eduar\Documents\ETEC\DS\aula02Eduardo\obj\Debug\net8.0\refint\aula02Eduardo.dll
+C:\Users\eduar\Documents\ETEC\DS\aula02Eduardo\obj\Debug\net8.0\aula02Eduardo.pdb
+C:\Users\eduar\Documents\ETEC\DS\aula02Eduardo\obj\Debug\net8.0\aula02Eduardo.genruntimeconfig.cache
+C:\Users\eduar\Documents\ETEC\DS\aula02Eduardo\obj\Debug\net8.0\ref\aula02Eduardo.dll
